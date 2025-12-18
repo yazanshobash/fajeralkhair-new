@@ -6,7 +6,7 @@ const SmartWhatsAppChat = dynamic(() => import("./SmartWhatsAppChat.jsx"), { ssr
 export default function WhatsAppWrapper() {
   return (
     <SmartWhatsAppChat
-      phone={971502919085⁩}
+      phone={962781607560⁩⁩}
       brand="فريق الدعم"
       avatar="/LOGO.jpg"
       defaultMessage=""
